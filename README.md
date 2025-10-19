@@ -1,5 +1,5 @@
 # Midterm Project Debate: X vs. Y vs. Z
-![Alt text](images/example.svg)
+![Alt text](images/jake.jpg)
 ß
 This is a team based project which we will discuss...
 
