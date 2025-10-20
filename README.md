@@ -21,4 +21,5 @@ TODO: Write history
 ## Credits
 Hee Jin Cheon, Hars & Jake
 ## License
-MIT License
+MIT License.
+
