@@ -1,7 +1,12 @@
-# Midterm Project Debate: X vs. Y vs. Z
+# Midterm Project Debate: Summer vs Monsoon vs Fall - The Weather Challenge
 ![Alt text](images/example.svg)
-ß
-This is a team based project which we will discuss...
+
+This is a team-based debate project where each member defends their chosen season—summer, monsoon, or fall—as the best. Through discussion, we’ll explore what makes each season uniquely powerful.
+
+## Summer vs Monsoon vs Fall
+
+### Fall is the Best
+
 
 ## Installation 💻
 No installation required, simply download the zip file and extract.
@@ -18,6 +23,6 @@ Open index.html in your choice browser and watch our debate.
 ## History
 TODO: Write history
 ## Credits
+Hee Jin Cheon, 
 ## License
 MIT License
-ß
