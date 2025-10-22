@@ -19,6 +19,7 @@ Open index.html in your choice browser and watch our debate.
 ## History
 TODO: Write history
 ## Credits
-Hee Jin Cheon, 
+Hee Jin Cheon, Harsh & Jake
 ## License
 MIT License
+
