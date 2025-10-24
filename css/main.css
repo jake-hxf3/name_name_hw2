@@ -13,10 +13,19 @@ header, footer{
     margin: 25px;
 }
 
+.hero{
+    height: 700px;
+}
+
 main{
     display: flex;
-    margin: 25px 0 25px 0;
+    margin: 35px 0 35px 0;
     justify-content: space-between;
+}
+
+.container{
+    display: flex;
+    align-items: center;
 }
 
 .season{
@@ -29,6 +38,16 @@ main{
 
 .season h2{
     text-align: center;
+}
+
+#summer{
+    background-color: #dcfff2;
+}
+#monsoon{
+    background-color: #e6ffe0;
+}
+#fall{
+    background-color: #FFE4B5;
 }
 
 .for, .against{
@@ -47,6 +66,22 @@ figure img{
 .image-wrap{
     width: 90%;
     display: flex;
-    gap: 10px;
+    justify-content: space-evenly;
     margin-top: 10px;
+}
+
+.image-wrap img{
+    width: 150px;
+    height: auto;
+}
+
+footer{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 15px;
+}
+.icon-text{
+    width: 30px;
+    height: 30px;
 }
