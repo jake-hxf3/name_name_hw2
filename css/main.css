@@ -1,3 +1,52 @@
 .hidden{
     display: none;
 }
+
+body{
+    width: 80%;
+    margin: 0 auto;
+    font-family: Arial, sans-serif;
+}
+
+header, footer{
+    text-align: center;
+    margin: 25px;
+}
+
+main{
+    display: flex;
+    margin: 25px 0 25px 0;
+    justify-content: space-between;
+}
+
+.season{
+    width: 30%;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    padding: 10px;
+    box-shadow: 2px 2px 5px rgba(0,0,0,0.1);
+}
+
+.season h2{
+    text-align: center;
+}
+
+.for, .against{
+    height: 300px;
+}
+
+figure{
+    height: 240px;
+    text-align: center;
+}
+
+figure img{
+    height: 185px;
+}
+
+.image-wrap{
+    width: 90%;
+    display: flex;
+    gap: 10px;
+    margin-top: 10px;
+}
