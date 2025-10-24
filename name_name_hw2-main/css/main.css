@@ -1,0 +1,90 @@
+.hidden{
+    display: none;
+}
+
+body{
+    width: 80%;
+    margin: 0 auto;
+    font-family: Arial, sans-serif;
+}
+
+header, footer{
+    text-align: center;
+    margin: 25px;
+}
+
+.hero{
+    height: 700px;
+}
+
+main{
+    display: flex;
+    margin: 35px 0 35px 0;
+    justify-content: space-between;
+}
+
+.container{
+    display: flex;
+    align-items: center;
+}
+
+.season{
+    width: 30%;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    padding: 10px;
+    box-shadow: 2px 2px 5px rgba(0,0,0,0.1);
+    overflow: hidden;
+}
+
+.season h2, .season h3{
+    text-align: center;
+}
+
+#summer{
+    background-color: #dcfff2;
+}
+#monsoon{
+    background-color: #e6ffe0;
+}
+#fall{
+    background-color: #ffeac6;
+}
+
+.for, .against{
+    height: 300px;
+    overflow: hidden;
+}
+
+figure{
+    height: 240px;
+    text-align: center;
+    overflow: hidden;
+}
+
+figure img{
+    height: 185px;
+}
+
+.image-wrap{
+    width: 90%;
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 10px;
+}
+
+.image-wrap img{
+    width: 150px;
+    height: auto;
+}
+
+footer{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 15px;
+}
+.icon-text{
+    width: 30px;
+    height: 30px;
+}
