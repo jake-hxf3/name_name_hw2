@@ -1,11 +1,7 @@
 # Midterm Project Debate: Summer vs Monsoon vs Fall - The Weather Challenge
 ![Picture of 3 weather Summer, Monsoon, and Fall](images/debate_main.png)
 
-This is a team-based debate project where each member defends their chosen season—summer, monsoon, or fall—as the best. Through discussion, we’ll explore what makes each season uniquely powerful.
-
-## Summer vs Monsoon vs Fall
-
-### Fall is the Best
+This is a team-based debate project where each member defends their chosen season—summer, monsoon, or fall—as the best. Through discussion, we’ll explore what makes each season uniquely wonderful.
 
 
 ## Installation 💻
@@ -23,6 +19,8 @@ Open index.html in your choice browser and watch our debate.
 ## History
 TODO: Write history
 ## Credits
-Hee Jin Cheon, 
+Jin Cheon, Harsh Vasita & Jake (aka Minh Tri Le)
 ## License
 MIT License
+
+
