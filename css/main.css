@@ -34,9 +34,10 @@ main{
     border-radius: 10px;
     padding: 10px;
     box-shadow: 2px 2px 5px rgba(0,0,0,0.1);
+    overflow: hidden;
 }
 
-.season h2{
+.season h2, .season h3{
     text-align: center;
 }
 
@@ -52,11 +53,13 @@ main{
 
 .for, .against{
     height: 300px;
+    overflow: hidden;
 }
 
 figure{
     height: 240px;
     text-align: center;
+    overflow: hidden;
 }
 
 figure img{
